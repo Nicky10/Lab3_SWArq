@@ -2,7 +2,7 @@ export const categoryTypeDef = `
   type Category {
       id: Int!
       name: String!
-      descriprion: String!
+      description: String!
   }
   input CategoryInput {
       name: String!
